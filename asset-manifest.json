@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stoop-sale/static/css/main.a1e9a43e.css",
+    "main.js": "/Stoop-sale/static/js/main.86a8c968.js",
+    "static/js/453.bb828c5d.chunk.js": "/Stoop-sale/static/js/453.bb828c5d.chunk.js",
+    "index.html": "/Stoop-sale/index.html",
+    "main.a1e9a43e.css.map": "/Stoop-sale/static/css/main.a1e9a43e.css.map",
+    "main.86a8c968.js.map": "/Stoop-sale/static/js/main.86a8c968.js.map",
+    "453.bb828c5d.chunk.js.map": "/Stoop-sale/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e9a43e.css",
+    "static/js/main.86a8c968.js"
+  ]
+}
